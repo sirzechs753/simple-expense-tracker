@@ -1,6 +1,6 @@
 # simple-expense-tracker
 Simple Expense Tracker made with ReactJS
 
-# how to build
+# How to Build
 - npm install
 - npm start
